@@ -1,4 +1,5 @@
-##                                                                                                       Hi, I'm Mahdy Wagdy 👋
+<h1 align="center">Hi, I'm Mahdy 👋</h1>
+<h3 align="center">Welcome to My GitHub!</h3>
 
 <!--
 **Mahdy-Wagdy/Mahdy-Wagdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
