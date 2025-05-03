@@ -1,6 +1,9 @@
-<h1 align="center">Hi, I'm Mahdy 👋</h1>
-<h3 align="center">Welcome to My GitHub!</h3>
-
+<h1 align="center">Hi, I'm Mahdy Wagdy 👋</h1>
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+David's+Github+!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+David's+Github+!" alt="Typing SVG" />
+  </a>
+</p>
 ---
 
 🎯 I'm a passionate Data Analyst with hands-on experience in transforming raw data into actionable insights using tools like Power BI, SQL, Excel, and Python. During my current internship at Danone, I’ve contributed to asset management optimization by building automated dashboards, cleaning and modeling data, and supporting data-driven decisions.
